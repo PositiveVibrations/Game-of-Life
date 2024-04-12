@@ -10,7 +10,7 @@ This Python implementation of the Game of Life offers a visual and interactive w
 
 Watch a quick demo of the Game of Life in action:
 
-![Demo of Game of Life](doc/Game-of-Life-Demo.gif)
+![Demo of Game of Life](docs/Game-of-Life-Demo.gif)
 
 ## Key Features
 
